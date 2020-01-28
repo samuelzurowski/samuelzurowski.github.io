@@ -1,0 +1,34 @@
+.navbar-menu, li {
+    float: left;
+    padding: 14px 16px;
+
+}
+
+div.navbar-logo {
+    background-image: url(../images/cfreg.png);
+    background-size: cover;
+    width: 200px;
+    height: 135px;
+    float: left;
+}
+
+.cfreg-container {
+    border-top: 4px greenyellow solid;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    position: absolute;
+    height: 150px;
+    background-color: black;
+}
+.navbar-menu, ul {
+    list-style-type: none;
+    margin: 0;
+    font-size: 32px;
+    padding: 0;
+    background-color: #333;
+}
+
+.navbar-right li:hover {
+    color: #fff;
+}

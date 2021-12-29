@@ -1,6 +1,7 @@
 ---
 title: My First Blog Post
 published: true
+layout: post
 ---
 
 # [](#header-1)My First Blog

@@ -235,8 +235,8 @@ hr {
 */
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  color: #e85853;
+  // text-shadow: 0 0 5px #ffd7d8;
 }
 
 a:active, a:focus {
@@ -263,6 +263,10 @@ a:active, a:focus {
 /* Make footer stick to bottom */
 
 .pagination, footer {
+  background: rgba(0, 0, 0, 0.1);
+  border-top: 1px dashed $conifer; //header;
+  padding: 20px;
+  margin: 0 0 40px 0;
   height: 50px;
   line-height: 50px;
   text-align: center;

@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+I;ll setup this nicely later!

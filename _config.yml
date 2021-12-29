@@ -3,7 +3,7 @@ description: "Website for me to blog about my cybersecurity views/opinions"
 author:
   name: "Samuel Zurowski"
   email: "szuro1@unh.newhaven.edu"
-  url: "https://samuelzurowski.com/"
+  url: "https://samuelzurowski.com"
 
 baseurl: /
 

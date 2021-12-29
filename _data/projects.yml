@@ -1,16 +1,24 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Android Application Vulnerability Analysis
+  role: Researcher
+  duration: 2021 - Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: >
+    Researching Android phone applications where multiple security vulnerabilities 
+    were discovered.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Exploratory Study of Offensive Security Tools
+  role: Researcher
+  duration: 2020 - 2021
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: >
+    Wrote a research paper that analyzes various used offensive security tools and 
+    their current state.
+
+- project: Penetration Testing using Reinforcement Learning
+  role: Researcher
+  duration: 2020 - 2021
+  # url: "#"
+  description: >
+    Developed a prototype capable of being trained and used to autonomously conduct 
+    penetration tests.

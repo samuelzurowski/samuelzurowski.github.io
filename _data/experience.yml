@@ -1,19 +1,49 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Cybersecurity Researcher 
+- company: University of New Haven
+  position: Graduate Cybersecurity Researcher
+  duration: August 2021 - Present
+  summary: >
+        Worked as a Cybersecurity Graduate Researcher where I worked on various research topics related to 
+        critical problems in cybersecurity. Some of the work includes:
+        <ul class="resume-item-list">
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+          <li>
+            Currently working on research on a subset of Android applications where discovered
+            were several security vulnerabilities that resulted in implications such deanonymization 
+            and other privacy issues.
+          </li>
+          
+          <li>
+            Employed on a grant funded by the NSA to reverse engineer the V8 JavaScript engine to 
+            recover objects in memory forensics to aide in investigations.
+          </li>
+
+          <li>
+            Primary responsibilities include:  reverse engineering V8 data structures, 
+            testing recovery approach, data analysis (pandas, jupyter-notebook, etc), 
+            and memory layout documentation.
+          </li>
+
+        </ul>
+
+# MITRE
+- company: The MITRE Corporation
+  position: Cybersecurity Engineer
+  duration: May 2019 - August 2020
+  summary: >
+        Worked as a Cybersecurity Intern in the Summer of 2019 and Remotely in Summer of 2020. 
+        Some of the projects & achievements are I worked are on:
+        <ul class="resume-item-list">
+          <li>Designed systems for automated exploits, covert mesh networking communications, software loaders, 
+          and ICS tampering (specifically MODBUS). Made specifically for custom C2 system.</li>
+
+          <li>Created a reverse engineering tool to allow researchers to rapidly identify open source libraries 
+          used in various Android applications which saved researchers thousands of hours.</li>
+
+          <li>Developed tools for complying with the Cyber-investigation Analysis Standard Expression ontology. 
+          Learn more: <a href="https://caseontology.org/">https://caseontology.org/</a></li>
+
+          <li>Received Spark Award for work ethic and technical challenges solved.</li>
+
+        </ul>

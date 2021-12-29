@@ -1,14 +1,15 @@
 # Degree
 - degree: Master of Science, Cybersecurity & Networks
   uni: University of New Haven
-  year: 2021 &mdash; 2022
-  # awards:
-  #   - award: Summa Cumme Laude graduate
-  # summary: If you had any meaningful roles at college, feel free to write about them here
-
-- degree: "Bachelor of Sciences, Computer Science, Concentration: Cybersecurity"
-  uni: University of New Haven
-  year: 2017 &mdash; 2021
+  year: 2021 - 2022
   awards:
+    - award: Graduate December of 2022
+    - award: GPA 4.0
+
+- degree: "Bachelor of Sciences, Computer Science"
+  uni: University of New Haven
+  year: 2017 - 2021
+  awards:
+    - award: Concentration in Cybersecurity and Minor in Mathematics
+    - award: GPA 3.74
     - award: Magna Cum Laude
-  summary: President of Hacking Team xxx.

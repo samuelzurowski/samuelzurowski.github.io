@@ -275,3 +275,13 @@ a:active, a:focus {
 #wrapper {
   min-height: calc(100vh - 100px);
 }
+
+#center-avatar-img img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#header-title-center h2 {
+  text-align: center;
+}
